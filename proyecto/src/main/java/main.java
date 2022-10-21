@@ -9,7 +9,7 @@ public class main {
 
         User user = new User();
         user.setName("master");
-        user.setPassword("234234");
+        user.setPassword("3548715");
 
         userList.add(user);
 
