@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class main {
@@ -11,6 +12,9 @@ public class main {
         user.setPassword("234234");
 
         userList.add(user);
+
+
+        userList.forEach(action -> action.getName());
 
     }
 }
