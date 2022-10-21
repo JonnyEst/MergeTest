@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b201b00-df08-4b2d-b8e9-762e77cd7b05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/dtos/CPQRC052/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/dtos/CPQRC052/src/main/java/com/bbva/cpqr/dto/datos/Authentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/dtos/CPQRC052/src/main/java/com/bbva/cpqr/dto/datos/AuthenticationData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/dtos/CPQRC052/src/main/java/com/bbva/cpqr/dto/datos/BackendUserRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/dtos/CPQRC052/src/main/java/com/bbva/cpqr/dto/datos/GrantingTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/dtos/CPQRC052/src/main/java/com/bbva/cpqr/dto/datos/OutAutehenticationGranting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/dtos/CPQRC052/src/main/java/com/bbva/cpqr/dto/datos/OutAuthentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/dtos/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/doc/DOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/java/com/bbva/cpqr/batch/process/Write.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/resources/META-INF/services/javax.validation.spi.ValidationProvider" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/resources/META-INF/spring/batch/beans/CPQRJ052-01-CO-beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/resources/META-INF/spring/batch/beans/CPQRJ052-01-CO-osgi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/resources/META-INF/spring/batch/beans/default-CPQRJ052-01-CO-beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/resources/META-INF/spring/batch/jobs/jobs-CPQRJ052-01-CO-context.gbe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/main/resources/META-INF/spring/batch/jobs/jobs-CPQRJ052-01-CO-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/java/com/bbva/cpqr/batch/CPQRJ05201COFunctionalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/java/com/bbva/cpqr/batch/mock/CPQRR052Mock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/java/com/bbva/cpqr/batch/util/ConfigurationFactoryMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/java/com/bbva/cpqr/batch/util/MockBundleContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/java/com/bbva/cpqr/batch/util/MockConfigurationArchitecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/resources/META-INF/spring/batch-hsqldb.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/resources/META-INF/spring/business-schema-hsqldb.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/resources/META-INF/spring/configuration-application-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/resources/META-INF/spring/jobs-CPQRJ052-01-CO-runner-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/resources/META-INF/spring/qwpj-configurationArchitecture.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/resources/datsal/HolaMundo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/CPQRJ052-01-CO/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/jobs/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052/src/main/java/com/bbva/cpqr/lib/r052/CPQRR052.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/main/java/com/bbva/cpqr/lib/r052/impl/CPQRR052Abstract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/main/java/com/bbva/cpqr/lib/r052/impl/CPQRR052Impl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/main/resources/META-INF/spring/CPQRR052-app-osgi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/main/resources/META-INF/spring/CPQRR052-app.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/main/resources/META-INF/spring/CPQRR052-arc-osgi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/main/resources/META-INF/spring/CPQRR052-arc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/main/resources/multilanguage-ES.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/test/java/com/bbva/cpqr/lib/r052/CPQRR052Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/test/java/com/bbva/cpqr/lib/r052/factory/ApiConnectorFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/test/java/com/bbva/cpqr/mock/ConfigurationFactoryMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/test/java/com/bbva/cpqr/mock/LibraryMonitorizationAspectMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/test/java/com/bbva/cpqr/mock/MockBundleContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/test/resources/META-INF/spring/CPQRR052-app-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/test/resources/META-INF/spring/CPQRR052-arc-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/CPQRR052IMPL/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/libraries/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/DOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Maven/apache-maven-3.8.6-bin/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EjFvj800KTYcBjx3xIQujVk3CY" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/99200413/OneDrive - GFI/Documentos/APX/APX-BATCH/APXBATCH#1/Ejercicio#3Batch/Ejercicio#3&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d32cdcd7c07ab42e77d53ff3adaf5cc9&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\99200413\OneDrive - GFI\Documentos\APX\APX-BATCH\APXBATCH#1\Ejercicio#3Batch\Ejercicio#3\artifact\jobs\CPQRJ052-01-CO\src\test\resources\datsal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CPQRR052Test">
+    <configuration name="CPQRJ05201COFunctionalTest.testLaunchJob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CPQRJ052-01-CO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.cpqr.batch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.cpqr.batch" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.cpqr.batch.CPQRJ05201COFunctionalTest" />
+      <option name="METHOD_NAME" value="testLaunchJob" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CPQRR052Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CPQRR052IMPL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.cpqr.lib.r052.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.cpqr.lib.r052" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.cpqr.lib.r052.CPQRR052Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CPQRR052Test.executeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CPQRR052IMPL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbva.cpqr.lib.r052.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bbva.cpqr.lib.r052" />
+      <option name="MAIN_CLASS_NAME" value="com.bbva.cpqr.lib.r052.CPQRR052Test" />
+      <option name="METHOD_NAME" value="executeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CPQRR052Test" />
+        <item itemvalue="JUnit.CPQRR052Test.executeTest" />
+        <item itemvalue="JUnit.CPQRJ05201COFunctionalTest.testLaunchJob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b201b00-df08-4b2d-b8e9-762e77cd7b05" name="Changes" comment="" />
+      <created>1663101320647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663101320647</updated>
+      <workItem from="1663101322763" duration="35168000" />
+      <workItem from="1665511686935" duration="5632000" />
+      <workItem from="1666389449450" duration="1166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
