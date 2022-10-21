@@ -13,6 +13,6 @@
 	<packaging>pom</packaging>
 	<name>JOBS-apx-batch-copqrsmartsv-job-3</name>
 	<modules>
-		<module>CPQRJ050-01-CO</module>
+		<module>CPQRJ052-01-CO</module>
 	</modules>
 </project>
