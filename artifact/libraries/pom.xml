@@ -13,7 +13,7 @@
 	<packaging>pom</packaging>
 	<name>LIBRARIES-apx-batch-copqrsmartsv-job-3</name>
 	<modules>
-		<module>CPQRR050</module>
-		<module>CPQRR050IMPL</module>
+		<module>CPQRR052</module>
+		<module>CPQRR052IMPL</module>
 	</modules>
 </project>

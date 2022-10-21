@@ -13,6 +13,6 @@
 	<packaging>pom</packaging>
 	<name>DTOS-apx-batch-copqrsmartsv-job-3</name>
 	<modules>
-		<module>CPQRC050</module>
+		<module>CPQRC052</module>
 	</modules>
 </project>
