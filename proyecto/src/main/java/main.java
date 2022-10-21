@@ -8,9 +8,14 @@ public class main {
 
         User user = new User();
         user.setName("master");
-        user.setPassword("234234");
+        user.setPassword(numero());
 
         userList.add(user);
 
+    }
+
+    public static String numero(){
+        String nu = "1235456451";
+        return nu;
     }
 }
