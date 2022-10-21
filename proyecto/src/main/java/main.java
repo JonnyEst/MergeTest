@@ -8,8 +8,8 @@ public class main {
         List<User> userList = new ArrayList<>();
 
         User user = new User();
-        user.setName("master");
         user.setPassword(numero());
+        //user.setName("master");
 
         userList.add(user);
 
